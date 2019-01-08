@@ -76,3 +76,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 BullsAndCows/Debug/
+x64/Debug/*
